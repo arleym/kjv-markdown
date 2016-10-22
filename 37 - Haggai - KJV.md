@@ -36,7 +36,7 @@
 
 ## Haggai Chapter 2
 
-2 In the seventh month, in the one and twentieth day of the month, came the word of the Lord by the prophet Haggai, saying,
+1 In the seventh month, in the one and twentieth day of the month, came the word of the Lord by the prophet Haggai, saying,
 
 2 Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,
 

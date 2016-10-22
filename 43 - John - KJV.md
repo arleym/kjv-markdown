@@ -108,7 +108,7 @@
 
 ## John Chapter 2
 
-2 And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
+1 And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
 
 2 And both Jesus was called, and his disciples, to the marriage.
 
@@ -161,7 +161,7 @@
 
 ## John Chapter 3
 
-3 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
+1 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
 
 2 The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.
 
@@ -236,7 +236,7 @@
 
 ## John Chapter 4
 
-4 When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
+1 When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
 
 2 (Though Jesus himself baptized not, but his disciples,)
 
@@ -347,7 +347,7 @@
 
 ## John Chapter 5
 
-5 After this there was a feast of the Jews; and Jesus went up to Jerusalem.
+1 After this there was a feast of the Jews; and Jesus went up to Jerusalem.
 
 2 Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches.
 
@@ -444,7 +444,7 @@
 
 ## John Chapter 6
 
-6 After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
+1 After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
 
 2 And a great multitude followed him, because they saw his miracles which he did on them that were diseased.
 
@@ -589,7 +589,7 @@
 
 ## John Chapter 7
 
-7 After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.
+1 After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.
 
 2 Now the Jew's feast of tabernacles was at hand.
 
@@ -698,7 +698,7 @@
 
 ## John Chapter 8
 
-8 Jesus went unto the mount of Olives.
+1 Jesus went unto the mount of Olives.
 
 2 And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.
 
@@ -819,7 +819,7 @@
 
 ## John Chapter 9
 
-9 And as Jesus passed by, he saw a man which was blind from his birth.
+1 And as Jesus passed by, he saw a man which was blind from his birth.
 
 2 And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?
 
@@ -904,7 +904,7 @@
 
 ## John Chapter 10
 
-10 Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
+1 Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
 
 2 But he that entereth in by the door is the shepherd of the sheep.
 
@@ -991,7 +991,7 @@
 
 ## John Chapter 11
 
-11 Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.
+1 Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.
 
 2 (It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)
 
@@ -1108,7 +1108,7 @@
 
 ## John Chapter 12
 
-12 Then Jesus six days before the passover came to Bethany, where Lazarus was, which had been dead, whom he raised from the dead.
+1 Then Jesus six days before the passover came to Bethany, where Lazarus was, which had been dead, whom he raised from the dead.
 
 2 There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him.
 
@@ -1211,7 +1211,7 @@
 
 ## John Chapter 13
 
-13 Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.
+1 Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.
 
 2 And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon's son, to betray him;
 
@@ -1290,7 +1290,7 @@
 
 ## John Chapter 14
 
-14 Let not your heart be troubled: ye believe in God, believe also in me.
+1 Let not your heart be troubled: ye believe in God, believe also in me.
 
 2 In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.
 
@@ -1355,7 +1355,7 @@
 
 ## John Chapter 15
 
-15 I am the true vine, and my Father is the husbandman.
+1 I am the true vine, and my Father is the husbandman.
 
 2 Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.
 
@@ -1412,7 +1412,7 @@
 
 ## John Chapter 16
 
-16 These things have I spoken unto you, that ye should not be offended.
+1 These things have I spoken unto you, that ye should not be offended.
 
 2 They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.
 
@@ -1481,7 +1481,7 @@
 
 ## John Chapter 17
 
-17 These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
+1 These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
 
 2 As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.
 
@@ -1536,7 +1536,7 @@
 
 ## John Chapter 18
 
-18 When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.
+1 When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.
 
 2 And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.
 
@@ -1619,7 +1619,7 @@
 
 ## John Chapter 19
 
-19 Then Pilate therefore took Jesus, and scourged him.
+1 Then Pilate therefore took Jesus, and scourged him.
 
 2 And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,
 
@@ -1706,7 +1706,7 @@
 
 ## John Chapter 20
 
-20 The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.
+1 The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.
 
 2 Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.
 
@@ -1771,7 +1771,7 @@
 
 ## John Chapter 21
 
-21 After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.
+1 After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.
 
 2 There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the sons of Zebedee, and two other of his disciples.
 

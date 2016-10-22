@@ -18,7 +18,7 @@
 
 ## Psalm Chapter 2
 
-2 Why do the heathen rage, and the people imagine a vain thing?
+1 Why do the heathen rage, and the people imagine a vain thing?
 
 2 The kings of the earth set themselves, and the rulers take counsel together, against the Lord, and against his anointed, saying,
 
@@ -45,7 +45,7 @@
 
 ## Psalm Chapter 3
 
-3 Lord, how are they increased that trouble me! many are they that rise up against me.
+1 Lord, how are they increased that trouble me! many are they that rise up against me.
 
 2 Many there be which say of my soul, There is no help for him in God. Selah.
 
@@ -64,7 +64,7 @@
 
 ## Psalm Chapter 4
 
-4 Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.
+1 Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.
 
 2 O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.
 
@@ -83,7 +83,7 @@
 
 ## Psalm Chapter 5
 
-5 Give ear to my words, O Lord, consider my meditation.
+1 Give ear to my words, O Lord, consider my meditation.
 
 2 Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.
 
@@ -110,7 +110,7 @@
 
 ## Psalm Chapter 6
 
-6 O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
+1 O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
 
 2 Have mercy upon me, O Lord; for I am weak: O Lord, heal me; for my bones are vexed.
 
@@ -133,7 +133,7 @@
 
 ## Psalm Chapter 7
 
-7 O Lord my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:
+1 O Lord my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:
 
 2 Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver.
 
@@ -170,7 +170,7 @@
 
 ## Psalm Chapter 8
 
-8 O Lord, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
+1 O Lord, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
 
 2 Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
 
@@ -191,7 +191,7 @@
 
 ## Psalm Chapter 9
 
-9 I will praise thee, O Lord, with my whole heart; I will shew forth all thy marvellous works.
+1 I will praise thee, O Lord, with my whole heart; I will shew forth all thy marvellous works.
 
 2 I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.
 
@@ -234,7 +234,7 @@
 
 ## Psalm Chapter 10
 
-10 Why standest thou afar off, O Lord? why hidest thou thyself in times of trouble?
+1 Why standest thou afar off, O Lord? why hidest thou thyself in times of trouble?
 
 2 The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.
 
@@ -273,7 +273,7 @@
 
 ## Psalm Chapter 11
 
-11 In the Lord put I my trust: how say ye to my soul, Flee as a bird to your mountain?
+1 In the Lord put I my trust: how say ye to my soul, Flee as a bird to your mountain?
 
 2 For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.
 
@@ -290,7 +290,7 @@
 
 ## Psalm Chapter 12
 
-12 Help, Lord; for the godly man ceaseth; for the faithful fail from among the children of men.
+1 Help, Lord; for the godly man ceaseth; for the faithful fail from among the children of men.
 
 2 They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak.
 
@@ -309,7 +309,7 @@
 
 ## Psalm Chapter 13
 
-13 How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?
+1 How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?
 
 2 How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?
 
@@ -324,7 +324,7 @@
 
 ## Psalm Chapter 14
 
-14 The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.
+1 The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.
 
 2 The Lord looked down from heaven upon the children of men, to see if there were any that did understand, and seek God.
 
@@ -341,7 +341,7 @@
 
 ## Psalm Chapter 15
 
-15 Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?
+1 Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?
 
 2 He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.
 
@@ -354,7 +354,7 @@
 
 ## Psalm Chapter 16
 
-16 Preserve me, O God: for in thee do I put my trust.
+1 Preserve me, O God: for in thee do I put my trust.
 
 2 O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee;
 
@@ -379,7 +379,7 @@
 
 ## Psalm Chapter 17
 
-17 Hear the right, O Lord, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.
+1 Hear the right, O Lord, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.
 
 2 Let my sentence come forth from thy presence; let thine eyes behold the things that are equal.
 
@@ -412,7 +412,7 @@
 
 ## Psalm Chapter 18
 
-18 I will love thee, O Lord, my strength.
+1 I will love thee, O Lord, my strength.
 
 2 The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.
 
@@ -515,7 +515,7 @@
 
 ## Psalm Chapter 19
 
-19 The heavens declare the glory of God; and the firmament sheweth his handywork.
+1 The heavens declare the glory of God; and the firmament sheweth his handywork.
 
 2 Day unto day uttereth speech, and night unto night sheweth knowledge.
 
@@ -546,7 +546,7 @@
 
 ## Psalm Chapter 20
 
-20 The Lord hear thee in the day of trouble; the name of the God of Jacob defend thee;
+1 The Lord hear thee in the day of trouble; the name of the God of Jacob defend thee;
 
 2 Send thee help from the sanctuary, and strengthen thee out of Zion;
 
@@ -567,7 +567,7 @@
 
 ## Psalm Chapter 21
 
-21 The king shall joy in thy strength, O Lord; and in thy salvation how greatly shall he rejoice!
+1 The king shall joy in thy strength, O Lord; and in thy salvation how greatly shall he rejoice!
 
 2 Thou hast given him his heart's desire, and hast not withholden the request of his lips. Selah.
 
@@ -596,7 +596,7 @@
 
 ## Psalm Chapter 22
 
-22 My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?
+1 My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?
 
 2 O my God, I cry in the day time, but thou hearest not; and in the night season, and am not silent.
 
@@ -661,7 +661,7 @@
 
 ## Psalm Chapter 23
 
-23 The Lord is my shepherd; I shall not want.
+1 The Lord is my shepherd; I shall not want.
 
 2 He maketh me to lie down in green pastures: he leadeth me beside the still waters.
 
@@ -676,7 +676,7 @@
 
 ## Psalm Chapter 24
 
-24 The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.
+1 The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.
 
 2 For he hath founded it upon the seas, and established it upon the floods.
 
@@ -699,7 +699,7 @@
 
 ## Psalm Chapter 25
 
-25 Unto thee, O Lord, do I lift up my soul.
+1 Unto thee, O Lord, do I lift up my soul.
 
 2 O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.
 
@@ -746,7 +746,7 @@
 
 ## Psalm Chapter 26
 
-26 Judge me, O Lord; for I have walked in mine integrity: I have trusted also in the Lord; therefore I shall not slide.
+1 Judge me, O Lord; for I have walked in mine integrity: I have trusted also in the Lord; therefore I shall not slide.
 
 2 Examine me, O Lord, and prove me; try my reins and my heart.
 
@@ -773,7 +773,7 @@
 
 ## Psalm Chapter 27
 
-27 The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?
+1 The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?
 
 2 When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.
 
@@ -804,7 +804,7 @@
 
 ## Psalm Chapter 28
 
-28 Unto thee will I cry, O Lord my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.
+1 Unto thee will I cry, O Lord my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.
 
 2 Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.
 
@@ -825,7 +825,7 @@
 
 ## Psalm Chapter 29
 
-29 Give unto the Lord, O ye mighty, give unto the Lord glory and strength.
+1 Give unto the Lord, O ye mighty, give unto the Lord glory and strength.
 
 2 Give unto the Lord the glory due unto his name; worship the Lord in the beauty of holiness.
 
@@ -850,7 +850,7 @@
 
 ## Psalm Chapter 30
 
-30 I will extol thee, O Lord; for thou hast lifted me up, and hast not made my foes to rejoice over me.
+1 I will extol thee, O Lord; for thou hast lifted me up, and hast not made my foes to rejoice over me.
 
 2 O Lord my God, I cried unto thee, and thou hast healed me.
 
@@ -877,7 +877,7 @@
 
 ## Psalm Chapter 31
 
-31 In thee, O Lord, do I put my trust; let me never be ashamed: deliver me in thy righteousness.
+1 In thee, O Lord, do I put my trust; let me never be ashamed: deliver me in thy righteousness.
 
 2 Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.
 
@@ -928,7 +928,7 @@
 
 ## Psalm Chapter 32
 
-32 Blessed is he whose transgression is forgiven, whose sin is covered.
+1 Blessed is he whose transgression is forgiven, whose sin is covered.
 
 2 Blessed is the man unto whom the Lord imputeth not iniquity, and in whose spirit there is no guile.
 
@@ -953,7 +953,7 @@
 
 ## Psalm Chapter 33
 
-33 Rejoice in the Lord, O ye righteous: for praise is comely for the upright.
+1 Rejoice in the Lord, O ye righteous: for praise is comely for the upright.
 
 2 Praise the Lord with harp: sing unto him with the psaltery and an instrument of ten strings.
 
@@ -1000,7 +1000,7 @@
 
 ## Psalm Chapter 34
 
-34 I will bless the Lord at all times: his praise shall continually be in my mouth.
+1 I will bless the Lord at all times: his praise shall continually be in my mouth.
 
 2 My soul shall make her boast in the Lord: the humble shall hear thereof, and be glad.
 
@@ -1047,7 +1047,7 @@
 
 ## Psalm Chapter 35
 
-35 Plead my cause, O Lord, with them that strive with me: fight against them that fight against me.
+1 Plead my cause, O Lord, with them that strive with me: fight against them that fight against me.
 
 2 Take hold of shield and buckler, and stand up for mine help.
 
@@ -1106,7 +1106,7 @@
 
 ## Psalm Chapter 36
 
-36 The transgression of the wicked saith within my heart, that there is no fear of God before his eyes.
+1 The transgression of the wicked saith within my heart, that there is no fear of God before his eyes.
 
 2 For he flattereth himself in his own eyes, until his iniquity be found to be hateful.
 
@@ -1133,7 +1133,7 @@
 
 ## Psalm Chapter 37
 
-37 Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.
+1 Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.
 
 2 For they shall soon be cut down like the grass, and wither as the green herb.
 
@@ -1216,7 +1216,7 @@
 
 ## Psalm Chapter 38
 
-38 O Lord, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.
+1 O Lord, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.
 
 2 For thine arrows stick fast in me, and thy hand presseth me sore.
 
@@ -1263,7 +1263,7 @@
 
 ## Psalm Chapter 39
 
-39 I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.
+1 I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.
 
 2 I was dumb with silence, I held my peace, even from good; and my sorrow was stirred.
 
@@ -1292,7 +1292,7 @@
 
 ## Psalm Chapter 40
 
-40 I waited patiently for the Lord; and he inclined unto me, and heard my cry.
+1 I waited patiently for the Lord; and he inclined unto me, and heard my cry.
 
 2 He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings.
 
@@ -1329,7 +1329,7 @@
 
 ## Psalm Chapter 41
 
-41 Blessed is he that considereth the poor: the Lord will deliver him in time of trouble.
+1 Blessed is he that considereth the poor: the Lord will deliver him in time of trouble.
 
 2 The Lord will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.
 
@@ -1358,7 +1358,7 @@
 
 ## Psalm Chapter 42
 
-42 As the hart panteth after the water brooks, so panteth my soul after thee, O God.
+1 As the hart panteth after the water brooks, so panteth my soul after thee, O God.
 
 2 My soul thirsteth for God, for the living God: when shall I come and appear before God?
 
@@ -1383,7 +1383,7 @@
 
 ## Psalm Chapter 43
 
-43 Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.
+1 Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.
 
 2 For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?
 
@@ -1396,7 +1396,7 @@
 
 ## Psalm Chapter 44
 
-44 We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.
+1 We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.
 
 2 How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out.
 
@@ -1451,7 +1451,7 @@
 
 ## Psalm Chapter 45
 
-45 My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer.
+1 My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer.
 
 2 Thou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever.
 
@@ -1488,7 +1488,7 @@
 
 ## Psalm Chapter 46
 
-46 God is our refuge and strength, a very present help in trouble.
+1 God is our refuge and strength, a very present help in trouble.
 
 2 Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;
 
@@ -1513,7 +1513,7 @@
 
 ## Psalm Chapter 47
 
-47 O clap your hands, all ye people; shout unto God with the voice of triumph.
+1 O clap your hands, all ye people; shout unto God with the voice of triumph.
 
 2 For the Lord most high is terrible; he is a great King over all the earth.
 
@@ -1534,7 +1534,7 @@
 
 ## Psalm Chapter 48
 
-48 Great is the Lord, and greatly to be praised in the city of our God, in the mountain of his holiness.
+1 Great is the Lord, and greatly to be praised in the city of our God, in the mountain of his holiness.
 
 2 Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King.
 
@@ -1565,7 +1565,7 @@
 
 ## Psalm Chapter 49
 
-49 Hear this, all ye people; give ear, all ye inhabitants of the world:
+1 Hear this, all ye people; give ear, all ye inhabitants of the world:
 
 2 Both low and high, rich and poor, together.
 
@@ -1608,7 +1608,7 @@
 
 ## Psalm Chapter 50
 
-50 The mighty God, even the Lord, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
+1 The mighty God, even the Lord, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
 
 2 Out of Zion, the perfection of beauty, God hath shined.
 
@@ -1657,7 +1657,7 @@
 
 ## Psalm Chapter 51
 
-51 Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
+1 Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
 
 2 Wash me throughly from mine iniquity, and cleanse me from my sin.
 
@@ -1698,7 +1698,7 @@
 
 ## Psalm Chapter 52
 
-52 Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.
+1 Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.
 
 2 The tongue deviseth mischiefs; like a sharp razor, working deceitfully.
 
@@ -1719,7 +1719,7 @@
 
 ## Psalm Chapter 53
 
-53 The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.
+1 The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.
 
 2 God looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God.
 
@@ -1734,7 +1734,7 @@
 
 ## Psalm Chapter 54
 
-54 Save me, O God, by thy name, and judge me by thy strength.
+1 Save me, O God, by thy name, and judge me by thy strength.
 
 2 Hear my prayer, O God; give ear to the words of my mouth.
 
@@ -1751,7 +1751,7 @@
 
 ## Psalm Chapter 55
 
-55 Give ear to my prayer, O God; and hide not thyself from my supplication.
+1 Give ear to my prayer, O God; and hide not thyself from my supplication.
 
 2 Attend unto me, and hear me: I mourn in my complaint, and make a noise;
 
@@ -1800,7 +1800,7 @@
 
 ## Psalm Chapter 56
 
-56 Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.
+1 Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.
 
 2 Mine enemies would daily swallow me up: for they be many that fight against me, O thou most High.
 
@@ -1829,7 +1829,7 @@
 
 ## Psalm Chapter 57
 
-57 Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.
+1 Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.
 
 2 I will cry unto God most high; unto God that performeth all things for me.
 
@@ -1854,7 +1854,7 @@
 
 ## Psalm Chapter 58
 
-58 Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?
+1 Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?
 
 2 Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.
 
@@ -1879,7 +1879,7 @@
 
 ## Psalm Chapter 59
 
-59 Deliver me from mine enemies, O my God: defend me from them that rise up against me.
+1 Deliver me from mine enemies, O my God: defend me from them that rise up against me.
 
 2 Deliver me from the workers of iniquity, and save me from bloody men.
 
@@ -1916,7 +1916,7 @@
 
 ## Psalm Chapter 60
 
-60 O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.
+1 O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.
 
 2 Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.
 
@@ -1943,7 +1943,7 @@
 
 ## Psalm Chapter 61
 
-61 Hear my cry, O God; attend unto my prayer.
+1 Hear my cry, O God; attend unto my prayer.
 
 2 From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I.
 
@@ -1962,7 +1962,7 @@
 
 ## Psalm Chapter 62
 
-62 Truly my soul waiteth upon God: from him cometh my salvation.
+1 Truly my soul waiteth upon God: from him cometh my salvation.
 
 2 He only is my rock and my salvation; he is my defence; I shall not be greatly moved.
 
@@ -1989,7 +1989,7 @@
 
 ## Psalm Chapter 63
 
-63 O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;
+1 O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;
 
 2 To see thy power and thy glory, so as I have seen thee in the sanctuary.
 
@@ -2014,7 +2014,7 @@
 
 ## Psalm Chapter 64
 
-64 Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.
+1 Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.
 
 2 Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 
@@ -2037,7 +2037,7 @@
 
 ## Psalm Chapter 65
 
-65 Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.
+1 Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.
 
 2 O thou that hearest prayer, unto thee shall all flesh come.
 
@@ -2066,7 +2066,7 @@
 
 ## Psalm Chapter 66
 
-66 Make a joyful noise unto God, all ye lands:
+1 Make a joyful noise unto God, all ye lands:
 
 2 Sing forth the honour of his name: make his praise glorious.
 
@@ -2109,7 +2109,7 @@
 
 ## Psalm Chapter 67
 
-67 God be merciful unto us, and bless us; and cause his face to shine upon us; Selah.
+1 God be merciful unto us, and bless us; and cause his face to shine upon us; Selah.
 
 2 That thy way may be known upon earth, thy saving health among all nations.
 
@@ -2126,7 +2126,7 @@
 
 ## Psalm Chapter 68
 
-68 Let God arise, let his enemies be scattered: let them also that hate him flee before him.
+1 Let God arise, let his enemies be scattered: let them also that hate him flee before him.
 
 2 As smoke is driven away, so drive them away: as wax melteth before the fire, so let the wicked perish at the presence of God.
 
@@ -2199,7 +2199,7 @@
 
 ## Psalm Chapter 69
 
-69 Save me, O God; for the waters are come in unto my soul.
+1 Save me, O God; for the waters are come in unto my soul.
 
 2 I sink in deep mire, where there is no standing: I am come into deep waters, where the floods overflow me.
 
@@ -2274,7 +2274,7 @@
 
 ## Psalm Chapter 70
 
-70 Make haste, o God, to deliver me; make haste to help me, O Lord.
+1 Make haste, o God, to deliver me; make haste to help me, O Lord.
 
 2 Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.
 
@@ -2287,7 +2287,7 @@
 
 ## Psalm Chapter 71
 
-71 In thee, O Lord, do I put my trust: let me never be put to confusion.
+1 In thee, O Lord, do I put my trust: let me never be put to confusion.
 
 2 Deliver me in thy righteousness, and cause me to escape: incline thine ear unto me, and save me.
 
@@ -2338,7 +2338,7 @@
 
 ## Psalm Chapter 72
 
-72 Give the king thy judgments, O God, and thy righteousness unto the king's son.
+1 Give the king thy judgments, O God, and thy righteousness unto the king's son.
 
 2 He shall judge thy people with righteousness, and thy poor with judgment.
 
@@ -2381,7 +2381,7 @@
 
 ## Psalm Chapter 73
 
-73 Truly God is good to Israel, even to such as are of a clean heart.
+1 Truly God is good to Israel, even to such as are of a clean heart.
 
 2 But as for me, my feet were almost gone; my steps had well nigh slipped.
 
@@ -2440,7 +2440,7 @@
 
 ## Psalm Chapter 74
 
-74 O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?
+1 O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?
 
 2 Remember thy congregation, which thou hast purchased of old; the rod of thine inheritance, which thou hast redeemed; this mount Zion, wherein thou hast dwelt.
 
@@ -2489,7 +2489,7 @@
 
 ## Psalm Chapter 75
 
-75 Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.
+1 Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.
 
 2 When I shall receive the congregation I will judge uprightly.
 
@@ -2512,7 +2512,7 @@
 
 ## Psalm Chapter 76
 
-76 In Judah is God known: his name is great in Israel.
+1 In Judah is God known: his name is great in Israel.
 
 2 In Salem also is his tabernacle, and his dwelling place in Zion.
 
@@ -2539,7 +2539,7 @@
 
 ## Psalm Chapter 77
 
-77 I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.
+1 I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.
 
 2 In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.
 
@@ -2582,7 +2582,7 @@
 
 ## Psalm Chapter 78
 
-78 Give ear, O my people, to my law: incline your ears to the words of my mouth.
+1 Give ear, O my people, to my law: incline your ears to the words of my mouth.
 
 2 I will open my mouth in a parable: I will utter dark sayings of old:
 
@@ -2729,7 +2729,7 @@
 
 ## Psalm Chapter 79
 
-79 O god, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.
+1 O god, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.
 
 2 The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.
 
@@ -2758,7 +2758,7 @@
 
 ## Psalm Chapter 80
 
-80 Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.
+1 Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.
 
 2 Before Ephraim and Benjamin and Manasseh stir up thy strength, and come and save us.
 
@@ -2799,7 +2799,7 @@
 
 ## Psalm Chapter 81
 
-81 Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.
+1 Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.
 
 2 Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.
 
@@ -2834,7 +2834,7 @@
 
 ## Psalm Chapter 82
 
-82 God standeth in the congregation of the mighty; he judgeth among the gods.
+1 God standeth in the congregation of the mighty; he judgeth among the gods.
 
 2 How long will ye judge unjustly, and accept the persons of the wicked? Selah.
 
@@ -2853,7 +2853,7 @@
 
 ## Psalm Chapter 83
 
-83 Keep not thou silence, O God: hold not thy peace, and be not still, O God.
+1 Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 
 2 For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
 
@@ -2892,7 +2892,7 @@
 
 ## Psalm Chapter 84
 
-84 How amiable are thy tabernacles, O Lord of hosts!
+1 How amiable are thy tabernacles, O Lord of hosts!
 
 2 My soul longeth, yea, even fainteth for the courts of the Lord: my heart and my flesh crieth out for the living God.
 
@@ -2919,7 +2919,7 @@
 
 ## Psalm Chapter 85
 
-85 Lord, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.
+1 Lord, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.
 
 2 Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.
 
@@ -2948,7 +2948,7 @@
 
 ## Psalm Chapter 86
 
-86 Bow down thine ear, O Lord, hear me: for I am poor and needy.
+1 Bow down thine ear, O Lord, hear me: for I am poor and needy.
 
 2 Preserve my soul; for I am holy: O thou my God, save thy servant that trusteth in thee.
 
@@ -2984,7 +2984,7 @@
 
 ## Psalm Chapter 87
 
-87 His foundation is in the holy mountains.
+1 His foundation is in the holy mountains.
 
 2 The Lord loveth the gates of Zion more than all the dwellings of Jacob.
 
@@ -3001,7 +3001,7 @@
 
 ## Psalm Chapter 88
 
-88 O lord God of my salvation, I have cried day and night before thee:
+1 O lord God of my salvation, I have cried day and night before thee:
 
 2 Let my prayer come before thee: incline thine ear unto my cry;
 
@@ -3040,7 +3040,7 @@
 
 ## Psalm Chapter 89
 
-89 I will sing of the mercies of the Lord for ever: with my mouth will I make known thy faithfulness to all generations.
+1 I will sing of the mercies of the Lord for ever: with my mouth will I make known thy faithfulness to all generations.
 
 2 For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.
 
@@ -3147,7 +3147,7 @@
 
 ## Psalm Chapter 90
 
-90 Lord, thou hast been our dwelling place in all generations.
+1 Lord, thou hast been our dwelling place in all generations.
 
 2 Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.
 
@@ -3184,7 +3184,7 @@
 
 ## Psalm Chapter 91
 
-91 He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
+1 He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
 
 2 I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.
 
@@ -3219,7 +3219,7 @@
 
 ## Psalm Chapter 92
 
-92 It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O Most High:
+1 It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O Most High:
 
 2 To shew forth thy lovingkindness in the morning, and thy faithfulness every night,
 
@@ -3252,7 +3252,7 @@
 
 ## Psalm Chapter 93
 
-93 The Lord reigneth, he is clothed with majesty; the Lord is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.
+1 The Lord reigneth, he is clothed with majesty; the Lord is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.
 
 2 Thy throne is established of old: thou art from everlasting.
 
@@ -3265,7 +3265,7 @@
 
 ## Psalm Chapter 94
 
-94 O Lord God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.
+1 O Lord God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.
 
 2 Lift up thyself, thou judge of the earth: render a reward to the proud.
 
@@ -3314,7 +3314,7 @@
 
 ## Psalm Chapter 95
 
-95 O come, let us sing unto the Lord: let us make a joyful noise to the rock of our salvation.
+1 O come, let us sing unto the Lord: let us make a joyful noise to the rock of our salvation.
 
 2 Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.
 
@@ -3339,7 +3339,7 @@
 
 ## Psalm Chapter 96
 
-96 O sing unto the Lord a new song: sing unto the Lord, all the earth.
+1 O sing unto the Lord a new song: sing unto the Lord, all the earth.
 
 2 Sing unto the Lord, bless his name; shew forth his salvation from day to day.
 
@@ -3368,7 +3368,7 @@
 
 ## Psalm Chapter 97
 
-97 The Lord reigneth; let the earth rejoice; let the multitude of isles be glad thereof.
+1 The Lord reigneth; let the earth rejoice; let the multitude of isles be glad thereof.
 
 2 Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne.
 
@@ -3395,7 +3395,7 @@
 
 ## Psalm Chapter 98
 
-98 O sing unto the Lord a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.
+1 O sing unto the Lord a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.
 
 2 The Lord hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.
 
@@ -3416,7 +3416,7 @@
 
 ## Psalm Chapter 99
 
-99 The Lord reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.
+1 The Lord reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.
 
 2 The Lord is great in Zion; and he is high above all the people.
 
@@ -3437,7 +3437,7 @@
 
 ## Psalm Chapter 100
 
-100 Make a joyful noise unto the Lord, all ye lands.
+1 Make a joyful noise unto the Lord, all ye lands.
 
 2 Serve the Lord with gladness: come before his presence with singing.
 
@@ -3450,7 +3450,7 @@
 
 ## Psalm Chapter 101
 
-101 I will sing of mercy and judgment: unto thee, O Lord, will I sing.
+1 I will sing of mercy and judgment: unto thee, O Lord, will I sing.
 
 2 I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.
 
@@ -3469,7 +3469,7 @@
 
 ## Psalm Chapter 102
 
-102 Hear my prayer, O Lord, and let my cry come unto thee.
+1 Hear my prayer, O Lord, and let my cry come unto thee.
 
 2 Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily.
 
@@ -3528,7 +3528,7 @@
 
 ## Psalm Chapter 103
 
-103 Bless the Lord, O my soul: and all that is within me, bless his holy name.
+1 Bless the Lord, O my soul: and all that is within me, bless his holy name.
 
 2 Bless the Lord, O my soul, and forget not all his benefits:
 
@@ -3575,7 +3575,7 @@
 
 ## Psalm Chapter 104
 
-104 Bless the Lord, O my soul. O Lord my God, thou art very great; thou art clothed with honour and majesty.
+1 Bless the Lord, O my soul. O Lord my God, thou art very great; thou art clothed with honour and majesty.
 
 2 Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:
 
@@ -3648,7 +3648,7 @@
 
 ## Psalm Chapter 105
 
-105 O give thanks unto the Lord; call upon his name: make known his deeds among the people.
+1 O give thanks unto the Lord; call upon his name: make known his deeds among the people.
 
 2 Sing unto him, sing psalms unto him: talk ye of all his wondrous works.
 
@@ -3741,7 +3741,7 @@
 
 ## Psalm Chapter 106
 
-106 Praise ye the Lord. O give thanks unto the Lord; for he is good: for his mercy endureth for ever.
+1 Praise ye the Lord. O give thanks unto the Lord; for he is good: for his mercy endureth for ever.
 
 2 Who can utter the mighty acts of the Lord? who can shew forth all his praise?
 
@@ -3840,7 +3840,7 @@
 
 ## Psalm Chapter 107
 
-107 O give thanks unto the Lord, for he is good: for his mercy endureth for ever.
+1 O give thanks unto the Lord, for he is good: for his mercy endureth for ever.
 
 2 Let the redeemed of the Lord say so, whom he hath redeemed from the hand of the enemy;
 
@@ -3929,7 +3929,7 @@
 
 ## Psalm Chapter 108
 
-108 O God, my heart is fixed; I will sing and give praise, even with my glory.
+1 O God, my heart is fixed; I will sing and give praise, even with my glory.
 
 2 Awake, psaltery and harp: I myself will awake early.
 
@@ -3958,7 +3958,7 @@
 
 ## Psalm Chapter 109
 
-109 Hold not thy peace, O God of my praise;
+1 Hold not thy peace, O God of my praise;
 
 2 For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.
 
@@ -4023,7 +4023,7 @@
 
 ## Psalm Chapter 110
 
-110 The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+1 The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 
 2 The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
 
@@ -4040,7 +4040,7 @@
 
 ## Psalm Chapter 111
 
-111 Praise ye the Lord. I will praise the Lord with my whole heart, in the assembly of the upright, and in the congregation.
+1 Praise ye the Lord. I will praise the Lord with my whole heart, in the assembly of the upright, and in the congregation.
 
 2 The works of the Lord are great, sought out of all them that have pleasure therein.
 
@@ -4063,7 +4063,7 @@
 
 ## Psalm Chapter 112
 
-112 Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments.
+1 Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments.
 
 2 His seed shall be mighty upon earth: the generation of the upright shall be blessed.
 
@@ -4086,7 +4086,7 @@
 
 ## Psalm Chapter 113
 
-113 Praise ye the Lord. Praise, O ye servants of the Lord, praise the name of the Lord.
+1 Praise ye the Lord. Praise, O ye servants of the Lord, praise the name of the Lord.
 
 2 Blessed be the name of the Lord from this time forth and for evermore.
 
@@ -4107,7 +4107,7 @@
 
 ## Psalm Chapter 114
 
-114 When Israel went out of Egypt, the house of Jacob from a people of strange language;
+1 When Israel went out of Egypt, the house of Jacob from a people of strange language;
 
 2 Judah was his sanctuary, and Israel his dominion.
 
@@ -4126,7 +4126,7 @@
 
 ## Psalm Chapter 115
 
-115 Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth's sake.
+1 Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth's sake.
 
 2 Wherefore should the heathen say, Where is now their God?
 
@@ -4165,7 +4165,7 @@
 
 ## Psalm Chapter 116
 
-116 I love the Lord, because he hath heard my voice and my supplications.
+1 I love the Lord, because he hath heard my voice and my supplications.
 
 2 Because he hath inclined his ear unto me, therefore will I call upon him as long as I live.
 
@@ -4206,14 +4206,14 @@
 
 ## Psalm Chapter 117
 
-117 O praise the Lord, all ye nations: praise him, all ye people.
+1 O praise the Lord, all ye nations: praise him, all ye people.
 
 2 For his merciful kindness is great toward us: and the truth of the Lord endureth for ever. Praise ye the Lord.
 
 
 ## Psalm Chapter 118
 
-118 O give thanks unto the Lord; for he is good: because his mercy endureth for ever.
+1 O give thanks unto the Lord; for he is good: because his mercy endureth for ever.
 
 2 Let Israel now say, that his mercy endureth for ever.
 
@@ -4274,7 +4274,7 @@
 
 ## Psalm Chapter 119
 
-119 Blessed are the undefiled in the way, who walk in the law of the Lord.
+1 Blessed are the undefiled in the way, who walk in the law of the Lord.
 
 2 Blessed are they that keep his testimonies, and that seek him with the whole heart.
 
@@ -4629,7 +4629,7 @@
 
 ## Psalm Chapter 120
 
-120 In my distress I cried unto the Lord, and he heard me.
+1 In my distress I cried unto the Lord, and he heard me.
 
 2 Deliver my soul, O Lord, from lying lips, and from a deceitful tongue.
 
@@ -4646,7 +4646,7 @@
 
 ## Psalm Chapter 121
 
-121 I will lift up mine eyes unto the hills, from whence cometh my help.
+1 I will lift up mine eyes unto the hills, from whence cometh my help.
 
 2 My help cometh from the Lord, which made heaven and earth.
 
@@ -4665,7 +4665,7 @@
 
 ## Psalm Chapter 122
 
-122 I was glad when they said unto me, Let us go into the house of the Lord.
+1 I was glad when they said unto me, Let us go into the house of the Lord.
 
 2 Our feet shall stand within thy gates, O Jerusalem.
 
@@ -4686,7 +4686,7 @@
 
 ## Psalm Chapter 123
 
-123 Unto thee lift I up mine eyes, O thou that dwellest in the heavens.
+1 Unto thee lift I up mine eyes, O thou that dwellest in the heavens.
 
 2 Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the Lord our God, until that he have mercy upon us.
 
@@ -4697,7 +4697,7 @@
 
 ## Psalm Chapter 124
 
-124 If it had not been the Lord who was on our side, now may Israel say;
+1 If it had not been the Lord who was on our side, now may Israel say;
 
 2 If it had not been the Lord who was on our side, when men rose up against us:
 
@@ -4716,7 +4716,7 @@
 
 ## Psalm Chapter 125
 
-125 They that trust in the Lord shall be as mount Zion, which cannot be removed, but abideth for ever.
+1 They that trust in the Lord shall be as mount Zion, which cannot be removed, but abideth for ever.
 
 2 As the mountains are round about Jerusalem, so the Lord is round about his people from henceforth even for ever.
 
@@ -4729,7 +4729,7 @@
 
 ## Psalm Chapter 126
 
-126 When the Lord turned again the captivity of Zion, we were like them that dream.
+1 When the Lord turned again the captivity of Zion, we were like them that dream.
 
 2 Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The Lord hath done great things for them.
 
@@ -4744,7 +4744,7 @@
 
 ## Psalm Chapter 127
 
-127 Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain.
+1 Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain.
 
 2 It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.
 
@@ -4757,7 +4757,7 @@
 
 ## Psalm Chapter 128
 
-128 Blessed is every one that feareth the Lord; that walketh in his ways.
+1 Blessed is every one that feareth the Lord; that walketh in his ways.
 
 2 For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee.
 
@@ -4772,7 +4772,7 @@
 
 ## Psalm Chapter 129
 
-129 Many a time have they afflicted me from my youth, may Israel now say:
+1 Many a time have they afflicted me from my youth, may Israel now say:
 
 2 Many a time have they afflicted me from my youth: yet they have not prevailed against me.
 
@@ -4791,7 +4791,7 @@
 
 ## Psalm Chapter 130
 
-130 Out of the depths have I cried unto thee, O Lord.
+1 Out of the depths have I cried unto thee, O Lord.
 
 2 Lord, hear my voice: let thine ears be attentive to the voice of my supplications.
 
@@ -4810,7 +4810,7 @@
 
 ## Psalm Chapter 131
 
-131 Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.
+1 Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.
 
 2 Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.
 
@@ -4819,7 +4819,7 @@
 
 ## Psalm Chapter 132
 
-132 Lord, remember David, and all his afflictions:
+1 Lord, remember David, and all his afflictions:
 
 2 How he sware unto the Lord, and vowed unto the mighty God of Jacob;
 
@@ -4858,7 +4858,7 @@
 
 ## Psalm Chapter 133
 
-133 Behold, how good and how pleasant it is for brethren to dwell together in unity!
+1 Behold, how good and how pleasant it is for brethren to dwell together in unity!
 
 2 It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;
 
@@ -4867,7 +4867,7 @@
 
 ## Psalm Chapter 134
 
-134 Behold, bless ye the Lord, all ye servants of the Lord, which by night stand in the house of the Lord.
+1 Behold, bless ye the Lord, all ye servants of the Lord, which by night stand in the house of the Lord.
 
 2 Lift up your hands in the sanctuary, and bless the Lord.
 
@@ -4876,7 +4876,7 @@
 
 ## Psalm Chapter 135
 
-135 Praise ye the Lord. Praise ye the name of the Lord; praise him, O ye servants of the Lord.
+1 Praise ye the Lord. Praise ye the name of the Lord; praise him, O ye servants of the Lord.
 
 2 Ye that stand in the house of the Lord, in the courts of the house of our God.
 
@@ -4921,7 +4921,7 @@
 
 ## Psalm Chapter 136
 
-136 O give thanks unto the Lord; for he is good: for his mercy endureth for ever.
+1 O give thanks unto the Lord; for he is good: for his mercy endureth for ever.
 
 2 O give thanks unto the God of gods: for his mercy endureth for ever.
 
@@ -4976,7 +4976,7 @@
 
 ## Psalm Chapter 137
 
-137 By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
+1 By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
 
 2 We hanged our harps upon the willows in the midst thereof.
 
@@ -4997,7 +4997,7 @@
 
 ## Psalm Chapter 138
 
-138 I will praise thee with my whole heart: before the gods will I sing praise unto thee.
+1 I will praise thee with my whole heart: before the gods will I sing praise unto thee.
 
 2 I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.
 
@@ -5016,7 +5016,7 @@
 
 ## Psalm Chapter 139
 
-139 O lord, thou hast searched me, and known me.
+1 O lord, thou hast searched me, and known me.
 
 2 Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.
 
@@ -5067,7 +5067,7 @@
 
 ## Psalm Chapter 140
 
-140 Deliver me, O Lord, from the evil man: preserve me from the violent man;
+1 Deliver me, O Lord, from the evil man: preserve me from the violent man;
 
 2 Which imagine mischiefs in their heart; continually are they gathered together for war.
 
@@ -5096,7 +5096,7 @@
 
 ## Psalm Chapter 141
 
-141 Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
+1 Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
 
 2 Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice.
 
@@ -5119,7 +5119,7 @@
 
 ## Psalm Chapter 142
 
-142 I cried unto the Lord with my voice; with my voice unto the Lord did I make my supplication.
+1 I cried unto the Lord with my voice; with my voice unto the Lord did I make my supplication.
 
 2 I poured out my complaint before him; I shewed before him my trouble.
 
@@ -5136,7 +5136,7 @@
 
 ## Psalm Chapter 143
 
-143 Hear my prayer, O Lord, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.
+1 Hear my prayer, O Lord, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.
 
 2 And enter not into judgment with thy servant: for in thy sight shall no man living be justified.
 
@@ -5163,7 +5163,7 @@
 
 ## Psalm Chapter 144
 
-144 Blessed be the Lord my strength which teacheth my hands to war, and my fingers to fight:
+1 Blessed be the Lord my strength which teacheth my hands to war, and my fingers to fight:
 
 2 My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me.
 
@@ -5196,7 +5196,7 @@
 
 ## Psalm Chapter 145
 
-145 I will extol thee, my God, O king; and I will bless thy name for ever and ever.
+1 I will extol thee, my God, O king; and I will bless thy name for ever and ever.
 
 2 Every day will I bless thee; and I will praise thy name for ever and ever.
 
@@ -5241,7 +5241,7 @@
 
 ## Psalm Chapter 146
 
-146 Praise ye the Lord. Praise the Lord, O my soul.
+1 Praise ye the Lord. Praise the Lord, O my soul.
 
 2 While I live will I praise the Lord: I will sing praises unto my God while I have any being.
 
@@ -5264,7 +5264,7 @@
 
 ## Psalm Chapter 147
 
-147 Praise ye the Lord: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.
+1 Praise ye the Lord: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.
 
 2 The Lord doth build up Jerusalem: he gathereth together the outcasts of Israel.
 
@@ -5307,7 +5307,7 @@
 
 ## Psalm Chapter 148
 
-148 Praise ye the Lord. Praise ye the Lord from the heavens: praise him in the heights.
+1 Praise ye the Lord. Praise ye the Lord from the heavens: praise him in the heights.
 
 2 Praise ye him, all his angels: praise ye him, all his hosts.
 
@@ -5338,7 +5338,7 @@
 
 ## Psalm Chapter 149
 
-149 Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints.
+1 Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints.
 
 2 Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.
 
@@ -5359,7 +5359,7 @@
 
 ## Psalm Chapter 150
 
-150 Praise ye the Lord. Praise God in his sanctuary: praise him in the firmament of his power.
+1 Praise ye the Lord. Praise God in his sanctuary: praise him in the firmament of his power.
 
 2 Praise him for his mighty acts: praise him according to his excellent greatness.
 

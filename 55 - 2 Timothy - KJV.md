@@ -134,7 +134,7 @@
 
 ## 2 Timothy Chapter 4
 
-4 I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;
+1 I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;
 
 2 Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all long suffering and doctrine.
 
