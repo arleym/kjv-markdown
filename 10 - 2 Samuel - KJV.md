@@ -1,7 +1,7 @@
 
 # 2 Samuel
 
-## 2 Samuel Chaapter 1
+## 2 Samuel Chapter 1
 
 1 Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
 
@@ -58,7 +58,7 @@
 27 How are the mighty fallen, and the weapons of war perished!
 
 
-## 2 Samuel Chaapter 2
+## 2 Samuel Chapter 2
 
 1 And it came to pass after this, that David enquired of the Lord, saying, Shall I go up into any of the cities of Judah? And the Lord said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.
 
@@ -125,7 +125,7 @@
 32 And they took up Asahel, and buried him in the sepulchre of his father, which was in Bethlehem. And Joab and his men went all night, and they came to Hebron at break of day.
 
 
-## 2 Samuel Chaapter 3
+## 2 Samuel Chapter 3
 
 1 Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.
 
@@ -206,7 +206,7 @@
 39 And I am this day weak, though anointed king; and these men the sons of Zeruiah be too hard for me: the Lord shall reward the doer of evil according to his wickedness.
 
 
-## 2 Samuel Chaapter 4
+## 2 Samuel Chapter 4
 
 1 And when Saul's son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.
 
@@ -233,7 +233,7 @@
 12 And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ishbosheth, and buried it in the sepulchre of Abner in Hebron.
 
 
-## 2 Samuel Chaapter 5
+## 2 Samuel Chapter 5
 
 1 Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.
 
@@ -286,7 +286,7 @@
 25 And David did so, as the Lord had commanded him; and smote the Philistines from Geba until thou come to Gazer.
 
 
-## 2 Samuel Chaapter 6
+## 2 Samuel Chapter 6
 
 1 Again, David gathered together all the chosen men of Israel, thirty thousand.
 
@@ -335,7 +335,7 @@
 23 Therefore Michal the daughter of Saul had no child unto the day of her death.
 
 
-## 2 Samuel Chaapter 7
+## 2 Samuel Chapter 7
 
 1 And it came to pass, when the king sat in his house, and the Lord had given him rest round about from all his enemies;
 
@@ -396,7 +396,7 @@
 29 Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord God, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever.
 
 
-## 2 Samuel Chaapter 8
+## 2 Samuel Chapter 8
 
 1 And after this it came to pass that David smote the Philistines, and subdued them: and David took Methegammah out of the hand of the Philistines.
 
@@ -435,7 +435,7 @@
 18 And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David's sons were chief rulers.
 
 
-## 2 Samuel Chaapter 9
+## 2 Samuel Chapter 9
 
 1 And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan's sake?
 
@@ -464,7 +464,7 @@
 13 So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king's table; and was lame on both his feet.
 
 
-## 2 Samuel Chaapter 10
+## 2 Samuel Chapter 10
 
 1 And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead.
 
@@ -505,7 +505,7 @@
 19 And when all the kings that were servants to Hadarezer saw that they were smitten before Israel, they made peace with Israel, and served them. So the Syrians feared to help the children of Ammon any more.
 
 
-## 2 Samuel Chaapter 11
+## 2 Samuel Chapter 11
 
 1 And it came to pass, after the year was expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem.
 
@@ -562,7 +562,7 @@
 27 And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the Lord.
 
 
-## 2 Samuel Chaapter 12
+## 2 Samuel Chapter 12
 
 1 And the Lord sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.
 
@@ -627,7 +627,7 @@
 31 And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brick-kiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.
 
 
-## 2 Samuel Chaapter 13
+## 2 Samuel Chapter 13
 
 1 And it came to pass after this, that Absalom the son of David had a fair sister, whose name was Tamar; and Amnon the son of David loved her.
 
@@ -708,7 +708,7 @@
 39 And the soul of king David longed to go forth unto Absalom: for he was comforted concerning Amnon, seeing he was dead.
 
 
-## 2 Samuel Chaapter 14
+## 2 Samuel Chapter 14
 
 1 Now Joab the son of Zeruiah perceived that the king's heart was toward Absalom.
 
@@ -777,7 +777,7 @@
 33 So Joab came to the king, and told him: and when he had called for Absalom, he came to the king, and bowed himself on his face to the ground before the king: and the king kissed Absalom.
 
 
-## 2 Samuel Chaapter 15
+## 2 Samuel Chapter 15
 
 1 And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him.
 
@@ -854,7 +854,7 @@
 37 So Hushai David's friend came into the city, and Absalom came into Jerusalem.
 
 
-## 2 Samuel Chaapter 16
+## 2 Samuel Chapter 16
 
 1 And when David was a little past the top of the hill, behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred loaves of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine.
 
@@ -903,7 +903,7 @@
 23 And the counsel of Ahithophel, which he counselled in those days, was as if a man had enquired at the oracle of God: so was all the counsel of Ahithophel both with David and with Absalom.
 
 
-## 2 Samuel Chaapter 17
+## 2 Samuel Chapter 17
 
 1 Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:
 
@@ -964,7 +964,7 @@
 29 And honey, and butter, and sheep, and cheese of kine, for David, and for the people that were with him, to eat: for they said, The people is hungry, and weary, and thirsty, in the wilderness.
 
 
-## 2 Samuel Chaapter 18
+## 2 Samuel Chapter 18
 
 1 And David numbered the people that were with him, and set captains of thousands, and captains of hundreds over them.
 
@@ -1033,7 +1033,7 @@
 33 And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!
 
 
-## 2 Samuel Chaapter 19
+## 2 Samuel Chapter 19
 
 1 And it was told Joab, Behold, the king weepeth and mourneth for Absalom.
 
@@ -1122,7 +1122,7 @@
 43 And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel.
 
 
-## 2 Samuel Chaapter 20
+## 2 Samuel Chapter 20
 
 1 And there happened to be there a man of Belial, whose name was Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel.
 
@@ -1177,7 +1177,7 @@
 26 And Ira also the Jairite was a chief ruler about David.
 
 
-## 2 Samuel Chaapter 21
+## 2 Samuel Chapter 21
 
 1 Then there was a famine in the days of David three years, year after year; and David enquired of the Lord. And the Lord answered, It is for Saul, and for his bloody house, because he slew the Gibeonites.
 
@@ -1224,7 +1224,7 @@
 22 These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants.
 
 
-## 2 Samuel Chaapter 22
+## 2 Samuel Chapter 22
 
 1 And David spake unto the Lord the words of this song in the day that the Lord had delivered him out of the hand of all his enemies, and out of the hand of Saul:
 
@@ -1329,7 +1329,7 @@
 51 He is the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore.
 
 
-## 2 Samuel Chaapter 23
+## 2 Samuel Chapter 23
 
 1 Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 
@@ -1410,7 +1410,7 @@
 39 Uriah the Hittite: thirty and seven in all.
 
 
-## 2 Samuel Chaapter 24
+## 2 Samuel Chapter 24
 
 1 And again the anger of the Lord was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah.
 
